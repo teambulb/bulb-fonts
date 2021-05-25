@@ -1,0 +1,14 @@
+{
+  "name": "bulb-fonts",
+  "version": "1.0.0",
+  "description": "The repo for bulb fonts NPM package",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teambulb/bulb-fonts.git"
+  },
+  "author": "teambulb",
+  "homepage": "https://github.com/teambulb/bulb-fonts#readme"
+}
