@@ -10,5 +10,8 @@
     "url": "git+https://github.com/teambulb/bulb-fonts.git"
   },
   "author": "teambulb",
+  "bugs": {
+    "url": "https://github.com/teambulb/bulb-fonts/issues"
+  },
   "homepage": "https://github.com/teambulb/bulb-fonts#readme"
 }
